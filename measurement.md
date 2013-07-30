@@ -1,5 +1,10 @@
-Measurement and Communication
-=============================
+---
+layout: default
+title: Measurement and Communication
+---
+
+{{ page.title }}
+================
 
 The District will develop measures to monitor and support its continuous 
 improvement in implementing the Strategic Plan and its programs and systems 
