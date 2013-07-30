@@ -1,8 +1,7 @@
 SCSD-Strategic-Plan
 ===================
 
-San Carlos School District Strategic Plan 2013-2018
----------------------------------------------------
+**San Carlos School District Strategic Plan 2013-2018**
 
 The following Strategic Plan outlines the vision, strategy, direction and goals of 
 the San Carlos School District ("SCSD" or the "District") and was created over a 
