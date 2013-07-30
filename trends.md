@@ -1,5 +1,10 @@
-Emerging Trends
-===============
+---
+layout: default
+title: Emerging Trends
+---
+
+{{ page.title }}
+================
 
 Our students will enter a world of work and social interactions that will be very 
 different from those of their parents. In order to prepare them for the future and 
