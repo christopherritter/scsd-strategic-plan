@@ -1,5 +1,10 @@
-Achievements and Milestones
-===========================
+---
+layout: default
+title: Achievements and Milestones
+---
+
+{{ page.title }}
+================
 
 SCSD has many ongoing and important goals, obligations and commitments that 
 have always been and will continue to be priorities for the District.  These include, 
