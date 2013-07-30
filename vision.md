@@ -1,5 +1,10 @@
-A Vision for Our Children
-=========================
+---
+layout: default
+title: A Vision for Our Children
+---
+
+{{ page.title }}
+================
 
 The San Carlos School District shall provide an innovative and engaging learning 
 experience that fosters the development of the Whole Child to ensure all 
