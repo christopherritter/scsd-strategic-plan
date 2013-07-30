@@ -7,7 +7,7 @@ toward student learning. This will include data analysis and engagement of all
 constituencies.  The District acknowledges that a communications plan must be 
 outlined and implemented to ensure that all staff and parents are informed and 
 educated on both the Strategic Plan as well as progress made toward its 
-objectives as well as to receive relevant feedback from all constituents.  
+objectives as well as to receive relevant feedback from all constituents.
 Communication shall be ongoing, integrated and disseminated broadly such that 
 school and district leadership can both communicate plans and monitor progress 
 for accountability.
