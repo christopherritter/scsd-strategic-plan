@@ -1,4 +1,6 @@
-Authentic Assessment - The measurement of intellectual accomplishments 
+# GLOSSARY OF TERMS
+
+**Authentic Assessment -** The measurement of intellectual accomplishments 
 that are worthwhile, significant, and meaningful, as compared to multiple 
 choice standardized tests. Authentic Assessment can be devised by the 
 teacher, or in collaboration with the student by engaging student voice. When 
@@ -6,7 +8,7 @@ applying Authentic Assessment to student learning and achievement, a
 teacher applies criteria related to construction of knowledge, disciplined 
 inquiry, and the value of achievement beyond the school.
 
-Blended and Personalized Learning – An educational experience that 
+**Blended and Personalized Learning –** An educational experience that 
 combines effective virtual learning (often done at home in form of a video 
 "lecture" or something similar) with a more robust and interactive experience 
 with a qualified educator who can better personalize instruction and support 
@@ -31,14 +33,14 @@ world.
 sustainability in our schools and community and delving into science-based 
 health and environmental issues will positively impact the whole person and 
 community over time. The District adopted a sustainability policy in February 
-2013 [https://sancarlos.csbaagendaonline.net/cgibin/WebObjects/sancarloseAgenda.woa/files/MTM2NjQ3MzQ0Mzc3Mi9zYW5jYXJsb3NlQWdlbmRhLzE
-xMzUvNTM1NS9GaWxlcw==/sustainability_policy_2-26.pdf](which can be viewed here).
+2013 [which can be viewed here](https://sancarlos.csbaagendaonline.net/cgibin/WebObjects/sancarloseAgenda.woa/files/MTM2NjQ3MzQ0Mzc3Mi9zYW5jYXJsb3NlQWdlbmRhLzE
+xMzUvNTM1NS9GaWxlcw==/sustainability_policy_2-26.pdf).
 
 **Facility Master Plan -** A plan adopted by the District in March 2013 to outline 
 the plans for building and renovation of facilities throughout the District, 
-including the building of two new 4th-5th grade schools. [http://www.sancarlos.k12.ca.us/wp-content/uploads/3-14-13-
-FINAL-San-Carlos-School-District-FMP-_-LK-EDITS.pdf](The plan can be 
-viewed here).
+including the building of two new 4th-5th grade schools. [The plan can be 
+viewed here](http://www.sancarlos.k12.ca.us/wp-content/uploads/3-14-13-
+FINAL-San-Carlos-School-District-FMP-_-LK-EDITS.pdf).
 
 **Global Curriculum -** A curriculum that recognizes the interconnected nature 
 of the world and focus on a greater understanding of world history, culture, 
