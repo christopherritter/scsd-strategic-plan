@@ -10,7 +10,7 @@ and health.
 
 The District will aggressively pursue alternative sources of funding from 
 foundations, individual and business donors, and other philanthropic 
-organizations to financial support the innovative programs contained in this plan.  
+organizations to financial support the innovative programs contained in this plan.
 In order to expand and fulfill the Vision above, the District will focus on the 
 following high leverage goals: 
 
