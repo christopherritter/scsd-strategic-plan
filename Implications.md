@@ -29,17 +29,17 @@ solving, confidence, taking initiative and being resilient.
 Specifically, the Who, What, Where, When, and How of educational endeavors
 will undergo a process of transformation, including:
 
-* Who: Bringing together a team of educators, broadly defined, from the 
+* **Who:** Bringing together a team of educators, broadly defined, from the 
 community and across the globe as well as challenging traditional 
 "sorting" mechanism of students
-* What: Emphasizing the Whole Child, focusing on the 5Cs of 21st Century 
+* **What:** Emphasizing the Whole Child, focusing on the 5Cs of 21st Century 
 skills outlined above, and embodying design and innovation thinking -
 reinforced by and built upon the foundation of the Common Core 
 Standards
-* Where/When: Extending and redefining the school day, leveraging the 
+* **Where/When:** Extending and redefining the school day, leveraging the 
 exploding opportunities afforded by blended learning, and redefining the 
 notion of the "classroom" and "school"
-* How: Developing a project-based, technology-infused approach to 
+* **How:** Developing a project-based, technology-infused approach to 
 teaching and learning, featuring real-world, meaningful design challenges, 
 including a deep appreciation for and exploration of the creative 
 expression found within the arts 
