@@ -1,5 +1,10 @@
-Implications for Teaching and Learning
-======================================
+---
+layout: default
+title: Implications for Teaching and Learning
+---
+
+{{ page.title }}
+================
 
 The implications of these trends for education are far-reaching and fundamentally 
 "game changing".  Although technology advances have catalyzed many of the 
