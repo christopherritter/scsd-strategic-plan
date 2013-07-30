@@ -1,5 +1,10 @@
-Context and Background
-======================
+---
+layout: default
+title: Context and Background
+---
+
+{{ page.title }}
+================
 
 We are at a watershed moment in the history of public education. Nineteenth 
 century conditions no longer constrain when, where and how learning takes 
