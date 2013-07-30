@@ -1,4 +1,10 @@
-# GLOSSARY OF TERMS
+---
+layout: default
+title: GLOSSARY OF TERMS
+---
+
+{{ page.title }}
+================
 
 **Authentic Assessment -** The measurement of intellectual accomplishments 
 that are worthwhile, significant, and meaningful, as compared to multiple 
